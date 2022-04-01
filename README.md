@@ -3,10 +3,10 @@ This project contains sample code for generating QR Codes for a given list of ur
 
 # Repository organization
 ## Folders
-- data: contains the csv file with format: FileName, URL
-- docs: documentation
-- img: generated QR codes
-- scr: source code
+- [data](data): contains the csv file with format: FileName, URL
+- [docs](docs): documentation
+- [img](img): generated QR codes
+- [scr](src): source code
 
 # Notes
-Sample code in file generateQR.py was created with VS Code.
+Sample code in file [generateQR.py](src/generateQR.py) was created with VS Code.
